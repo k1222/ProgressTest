@@ -1,4 +1,4 @@
-package com.example.progresstest;
+package com.example.progresstest.view;
 
 import android.content.Context;
 import android.graphics.Canvas;

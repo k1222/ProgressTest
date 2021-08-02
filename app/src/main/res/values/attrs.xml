@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SliderProgressBarStyle">
+        //文字位置
+        <attr name="textLocation">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        //是否显示气泡
+        <attr name="isShowBubble" format="boolean" />
+    </declare-styleable>
+</resources>
